@@ -1,0 +1,38 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#082F49"/>
+      <stop offset="1" stop-color="#064E3B"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="86" y1="40" x2="1114" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="204" rx="20" fill="#020617" fill-opacity="0.38" stroke="url(#stroke)" stroke-opacity="0.55"/>
+  <text x="600" y="72" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">GitHub Engineering Dashboard</text>
+  <text x="600" y="106" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Reliable profile metrics, language insights, and active development focus</text>
+  <g transform="translate(90 138)">
+    <rect width="220" height="58" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text x="110" y="25" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">FULL STACK</text>
+    <text x="110" y="44" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Frontend + Backend</text>
+  </g>
+  <g transform="translate(350 138)">
+    <rect width="220" height="58" rx="14" fill="#0F172A" stroke="#14B8A6" stroke-opacity="0.35"/>
+    <text x="110" y="25" text-anchor="middle" fill="#14B8A6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">REST + FASTAPI</text>
+    <text x="110" y="44" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">API Integration</text>
+  </g>
+  <g transform="translate(610 138)">
+    <rect width="220" height="58" rx="14" fill="#0F172A" stroke="#A3E635" stroke-opacity="0.35"/>
+    <text x="110" y="25" text-anchor="middle" fill="#A3E635" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">AI WEB SOLUTIONS</text>
+    <text x="110" y="44" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Automation + R&amp;D</text>
+  </g>
+  <g transform="translate(870 138)">
+    <rect width="220" height="58" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text x="110" y="25" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">PROBLEM SOLVING</text>
+    <text x="110" y="44" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Debug - Build - Ship</text>
+  </g>
+</svg>

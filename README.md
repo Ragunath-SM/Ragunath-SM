@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Ragunath S M - AI Web Developer and R&D Lead" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Ragunath S M - Full Stack AI Web Developer and API Integration Specialist" />
 </p>
 
 <p align="center">
@@ -18,7 +18,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=900&lines=AI+Web+Developer+%40+Navabrind+IT+Solutions;R%26D+Lead+building+AI-driven+web+solutions;Laravel+%7C+CodeIgniter+%7C+Pimcore+%7C+Odoo;Turning+ideas+into+usable+digital+products" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=980&lines=AI+%26+Web+Developer+%40+Navabrind+IT+Solutions+Pvt+Ltd;AI-Driven+Web+Solutions+%7C+Full-Stack+Developer;FastAPI+%7C+REST+API+Integration+%7C+Backend+Engineering;Tech+Enthusiast+%7C+Problem+Solver+%7C+Passionate+Coder" alt="Typing animation" />
+</p>
+
+<h3 align="center">
+  AI &amp; Web Developer @ Navabrind IT Solutions Pvt Ltd | AI-Driven Web Solutions | Tech Enthusiast | Full-Stack Developer | API &amp; Integration Specialist | Problem Solver | Passionate Coder
+</h3>
+
+<p align="center">
+  <code>Laravel</code> &nbsp;|&nbsp; <code>CodeIgniter</code> &nbsp;|&nbsp; <code>Pimcore</code> &nbsp;|&nbsp; <code>Odoo</code> &nbsp;|&nbsp; <code>FastAPI</code> &nbsp;|&nbsp; <code>REST APIs</code> &nbsp;|&nbsp; <code>AI Automation</code>
 </p>
 
 <p align="center">
@@ -38,25 +46,26 @@
     <td width="50%">
       <h3>Who I Am</h3>
       <p>
-        I am <b>Ragunath S M</b>, an <b>AI Web Developer</b> and <b>R&amp;D Lead</b> at <b>Navabrind IT Solutions</b>. I build AI-assisted web products, automation workflows, internal tools, and scalable backend systems that solve real business problems.
+        I am <b>Ragunath S M</b>, an <b>AI &amp; Web Developer</b>, <b>Full-Stack Developer</b>, and <b>R&amp;D Lead</b> at <b>Navabrind IT Solutions Pvt Ltd</b>. I build AI-assisted web products, automation workflows, internal tools, REST API integrations, and scalable backend systems that solve real business problems.
       </p>
       <p>
-        My work blends product thinking, backend engineering, API integration, database design, and clean user experiences.
+        My work blends product thinking, frontend delivery, backend engineering, FastAPI services, API integration, database design, and clean user experiences.
       </p>
     </td>
     <td width="50%">
       <h3>Current Focus</h3>
       <p>
-        <img src="https://img.shields.io/badge/Role-R%26D%20Lead-14B8A6?style=flat-square" alt="R&D Lead" />
-        <img src="https://img.shields.io/badge/Role-AI%20Web%20Developer-38BDF8?style=flat-square" alt="AI Web Developer" />
+        <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-14B8A6?style=flat-square" alt="Full-Stack Developer" />
+        <img src="https://img.shields.io/badge/Role-AI%20%26%20Web%20Developer-38BDF8?style=flat-square" alt="AI and Web Developer" />
+        <img src="https://img.shields.io/badge/Role-R%26D%20Lead-A3E635?style=flat-square" alt="R&D Lead" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Building-AI%20Tools-0F172A?style=flat-square" alt="AI Tools" />
-        <img src="https://img.shields.io/badge/Shipping-Web%20Apps-0F172A?style=flat-square" alt="Web Apps" />
-        <img src="https://img.shields.io/badge/Improving-System%20Design-0F172A?style=flat-square" alt="System Design" />
+        <img src="https://img.shields.io/badge/Building-AI%20Web%20Solutions-0F172A?style=flat-square" alt="AI Web Solutions" />
+        <img src="https://img.shields.io/badge/Integrating-REST%20APIs-0F172A?style=flat-square" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/Exploring-FastAPI%20%2B%20Automation-0F172A?style=flat-square" alt="FastAPI and automation" />
       </p>
       <p>
-        I care about software that is useful, maintainable, fast to operate, and simple for users to understand.
+        I care about software that is useful, maintainable, fast to operate, easy to integrate, and simple for users to understand.
       </p>
     </td>
   </tr>
@@ -76,11 +85,11 @@
     </td>
     <td align="center" width="25%">
       <h3>Full Stack</h3>
-      <p>Frontend + Backend</p>
+      <p>UI + Backend + APIs</p>
     </td>
     <td align="center" width="25%">
-      <h3>APIs</h3>
-      <p>Integration Specialist</p>
+      <h3>FastAPI</h3>
+      <p>REST API Specialist</p>
     </td>
   </tr>
 </table>
@@ -110,19 +119,21 @@
     <td width="33%" valign="top">
       <h3>Backend</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nginx,docker&theme=dark" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,nginx,docker&theme=dark" alt="Backend" />
       </p>
-      <p>Laravel, CodeIgniter, Pimcore, Odoo 17/18/19, REST APIs, authentication, workflows, and server-side logic.</p>
+      <p>Laravel, CodeIgniter, FastAPI, Pimcore, Odoo 17/18/19, REST APIs, authentication, workflows, and server-side logic.</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Pimcore-6428B4?style=for-the-badge&logo=pimcore&logoColor=white" alt="Pimcore" />
   <img src="https://img.shields.io/badge/Odoo%2017%2F18%2F19-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=14B8A6" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/API%20Integration-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="API Integration" />
 </p>
 
 <table>
@@ -152,6 +163,39 @@
   <img src="https://img.shields.io/badge/AI%20Automation-14B8A6?style=for-the-badge&logo=zapier&logoColor=white" alt="AI Automation" />
 </p>
 
+## Technical Depth
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend and API Engineering</h3>
+      <p>
+        REST API design, third-party API integration, FastAPI services, Laravel modules, CodeIgniter applications, authentication flows, request validation, backend debugging, and business workflow automation.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full-Stack Delivery</h3>
+      <p>
+        Frontend screens, admin dashboards, API-connected forms, database-backed features, deployment support, production fixes, clean documentation, and fast iteration with teams.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI-Driven Web Solutions</h3>
+      <p>
+        AI-assisted development, prompt workflows, chatbot concepts, automation ideas, internal productivity tools, and R&amp;D experiments that convert new technology into practical products.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Enterprise Platforms</h3>
+      <p>
+        Pimcore, Odoo 17/18/19, Laravel ecosystems, database management, API-based integrations, and maintainable backend structures for business applications.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="assets/line.svg" width="100%" alt="" />
 </p>
@@ -161,16 +205,16 @@
 <table>
   <tr>
     <td width="25%" align="center">
-      <h3>AI Web Development</h3>
-      <p>AI-assisted apps, internal tools, automation flows, and intelligent user experiences.</p>
+      <h3>Full-Stack Development</h3>
+      <p>Frontend screens, backend logic, databases, integrations, and production-ready web application delivery.</p>
     </td>
     <td width="25%" align="center">
       <h3>R&amp;D Leadership</h3>
       <p>Researching ideas, validating feasibility, prototyping fast, and converting experiments into working products.</p>
     </td>
     <td width="25%" align="center">
-      <h3>Backend Systems</h3>
-      <p>Laravel, CodeIgniter, Pimcore, Odoo, APIs, workflows, database design, and maintainable logic.</p>
+      <h3>API Systems</h3>
+      <p>FastAPI, REST APIs, third-party integrations, Postman testing, workflows, and maintainable service logic.</p>
     </td>
     <td width="25%" align="center">
       <h3>Product Delivery</h3>
@@ -178,6 +222,40 @@
     </td>
   </tr>
 </table>
+
+## LinkedIn and Portfolio Highlights
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Professional Identity</h3>
+      <p>
+        AI &amp; Web Developer at Navabrind IT Solutions Pvt Ltd with focus on AI-driven web solutions, full-stack development, API integrations, problem solving, and continuous learning.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Client and Team Exposure</h3>
+      <p>
+        Experience collaborating around digital transformation, AI-driven innovation, global client discussions, teamwork, and business-focused technology delivery.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Recognized Strengths</h3>
+      <p>
+        Technical knowledge, quick learning, collaborative attitude, professionalism, communication, adaptability, and ability to handle complex requirements.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API%20Integration-95%25-14B8A6?style=for-the-badge" alt="REST API Integration 95%" />
+  <img src="https://img.shields.io/badge/PHP-90%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 90%" />
+  <img src="https://img.shields.io/badge/CodeIgniter-90%25-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 90%" />
+  <img src="https://img.shields.io/badge/Laravel-85%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 85%" />
+  <img src="https://img.shields.io/badge/MySQL%20%2F%20PSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL PSQL 80%" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Basics-75%25-0F172A?style=for-the-badge" alt="AI and ML Basics 75%" />
+</p>
 
 ## Education
 
@@ -206,9 +284,12 @@
   <img src="https://img.shields.io/badge/AI%20Tools%20Workshop-Be10x-0F172A?style=for-the-badge" alt="AI Tools Workshop" />
   <img src="https://img.shields.io/badge/Build%20Your%20Own%20Chatbot-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Build Your Own Chatbot" />
   <img src="https://img.shields.io/badge/Gemini%20for%20Google%20Workspace-Simplilearn-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini for Google Workspace" />
+  <img src="https://img.shields.io/badge/Java%20Programming-Great%20Learning-0B5FFF?style=for-the-badge" alt="Java Programming" />
   <img src="https://img.shields.io/badge/Full--Stack%20Development-Simplilearn-0F172A?style=for-the-badge" alt="Full-Stack Development" />
   <img src="https://img.shields.io/badge/Front%20End%20Web%20Developing-Great%20Learning-0B5FFF?style=for-the-badge" alt="Front End Web Developing" />
   <img src="https://img.shields.io/badge/Crash%20Course%20on%20Python-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Crash Course on Python" />
+  <img src="https://img.shields.io/badge/Google%20UX%20Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google UX Design" />
+  <img src="https://img.shields.io/badge/Agile%20Project%20Management-HP%20LIFE-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="Agile Project Management" />
 </p>
 
 <p align="center">
@@ -235,7 +316,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ragunath-SM&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" width="100%" alt="GitHub trophies" />
+  <img src="assets/github-showcase.svg" width="100%" alt="GitHub engineering dashboard" />
 </p>
 
 <p align="center">
@@ -245,10 +326,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragunath-SM&theme=algolia&hide_border=true&background=0D1117&ring=14B8A6&fire=38BDF8&currStreakLabel=14B8A6" width="70%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragunath-SM&theme=react-dark&hide_border=true&bg_color=0D1117&color=E5E7EB&line=14B8A6&point=38BDF8&area=true&area_color=14B8A6" width="100%" alt="GitHub activity graph" />
 </p>
 
 ## Career Direction
