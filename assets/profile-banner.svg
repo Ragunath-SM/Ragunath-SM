@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.45" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#062F2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="150" y1="60" x2="1050" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.08 0 0 0 0 0.72 0 0 0 0 0.65 0 0 0 0.45 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1020" cy="80" r="170" fill="#14B8A6" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="130" cy="300" r="160" fill="#38BDF8" opacity="0.11" filter="url(#glow)"/>
+  <path d="M30 282C190 218 276 229 424 257C626 295 713 97 911 121C1045 137 1113 204 1170 265" stroke="url(#accent)" stroke-width="3" stroke-opacity="0.55"/>
+  <path d="M45 304C210 244 311 269 461 293C661 324 743 147 927 161C1043 170 1116 226 1162 287" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.16"/>
+  <g opacity="0.92">
+    <rect x="70" y="70" width="1060" height="220" rx="22" fill="#020617" fill-opacity="0.48" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="92" y="92" width="128" height="36" rx="18" fill="#14B8A6" fill-opacity="0.16" stroke="#14B8A6" stroke-opacity="0.55"/>
+    <text x="156" y="116" text-anchor="middle" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">AI WEB DEV</text>
+    <text x="92" y="178" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Ragunath S M</text>
+    <text x="94" y="220" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">R&amp;D Lead | Full-Stack Developer | AI-Driven Web Solutions</text>
+    <text x="94" y="254" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Laravel - CodeIgniter - Pimcore - Odoo - Python - TypeScript - Databases - Automation</text>
+  </g>
+  <g transform="translate(870 92)" opacity="0.9">
+    <rect x="0" y="0" width="220" height="176" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.25"/>
+    <circle cx="43" cy="44" r="8" fill="#14B8A6"/>
+    <circle cx="78" cy="44" r="8" fill="#38BDF8"/>
+    <circle cx="113" cy="44" r="8" fill="#A3E635"/>
+    <path d="M46 92L74 120L46 148" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 146H164" stroke="#A3E635" stroke-width="10" stroke-linecap="round"/>
+    <text x="110" y="164" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">BUILD - LEARN - SHIP</text>
+  </g>
+</svg>
